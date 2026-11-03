@@ -18,9 +18,15 @@ MIS 561 Data Visualization, 10/19/26, Card Portfolio Review – Contactless Read
 MIS 561 Data Visualization, 10/26/26, https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930742096340/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link, In this assignment, I analyzed Bear Down Bank customer and credit card data to determine which customer group should receive the initial Wildcat Rewards Card pilot offer. Using Excel and Tableau, I evaluated customer eligibility based on existing credit card ownership, FICO scores, and debt-to-income ratios. My analysis identified Texas as the strongest pilot opportunity, with 68 eligible customers and a 42.77% qualification rate, more than double the overall rate of 20.35%. I created an interactive exploratory dashboard and an explanatory visualization to support this recommendation. If I repeated the analysis, I would incorporate customer spending patterns and account activity to better predict which eligible customers would be most likely to accept the offer.
 
 **November 2, 2026 – Data Storytelling with Adobe Express**
+
 **Client, Executive, and Recommendation:** Axiom Insights recommends that Jordan Ellis, VP of Card Growth at Bear Down Bank, prioritize Texas for the initial Wildcat Rewards Card pilot mailing based on its 42.77% eligibility rate and 68 eligible customers.
+
 **GitHub Work Sample:** https://github.com/TristinAnaya/MIS561-portfolio/blob/main/adobe/anaya-data-storytelling..png
+
 **Adobe Express Page:** https://express.adobe.com/publishedV2/urn:aaid:sc:US:b58dc1c7-146f-5f28-867d-c744101a98f4
+
 **Design Justification:** I selected a horizontal bar chart instead of a detailed data table because it allows the executive to quickly compare eligibility rates and eligible customer counts across states. I narrowed the original 12-state visualization to five states with at least 50 customers, removing unnecessary comparisons and emphasizing Texas as the strongest pilot market. The chart highlights Texas's 42.77% eligibility rate and 68 eligible customers to support a clear, actionable recommendation.
+
 **Data Storytelling Training Completed:** November 2, 2026.
+
 **Generative AI Disclosure:** OpenAI. (2026, November 2). *ChatGPT (GPT-6)* [Large language model]. Used to assist with report planning, visualization recommendations, layout refinement, and README preparation.
