@@ -30,3 +30,15 @@ MIS 561 Data Visualization, 10/26/26, https://public.tableau.com/views/CardGrowt
 **Data Storytelling Training Completed:** November 2, 2026.
 
 **Generative AI Disclosure:** OpenAI. (2026, November 2). *ChatGPT (GPT-6)* [Large language model]. Used to assist with report planning, visualization recommendations, layout refinement, and README preparation.
+
+**November 15, 2026 · Product Pitch with Generative AI in Adobe Express**
+
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week analytics engagement to develop a targeted Wildcat Rewards pilot mailing strategy and measurement plan.
+
+[Pitch deck (PDF)](https://github.com/TristinAnaya/MIS561-portfolio/blob/main/adobe/anaya-product-pitch.pdf) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:US:2046e94e-efb5-5fbf-a607-3296cf2e3d42?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+Toughest objection: Does a higher qualification rate guarantee campaign success? Slide 7 addresses this concern by acknowledging that eligibility alone does not predict customer response or financial return. The proposed six-week engagement establishes a focused targeting strategy and measurable evaluation plan before recommending a larger rollout.
+
+AI use: OpenAI ChatGPT (GPT-6), November 15, 2026 — Assisted with organizing the presentation narrative, refining slide titles and written content, identifying and addressing the executive's toughest objection on Slide 7, and reviewing the presentation for clarity, professionalism, and assignment alignment. All charts and numerical findings were based on the course datasets.
+
+Training completed: November 15, 2026.
