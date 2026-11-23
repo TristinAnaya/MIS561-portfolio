@@ -42,3 +42,13 @@ Toughest objection: Does a higher qualification rate guarantee campaign success?
 AI use: OpenAI ChatGPT (GPT-6), November 15, 2026 — Assisted with organizing the presentation narrative, refining slide titles and written content, identifying and addressing the executive's toughest objection on Slide 7, and reviewing the presentation for clarity, professionalism, and assignment alignment. All charts and numerical findings were based on the course datasets.
 
 Training completed: November 15, 2026.
+
+**November 22, 2026 · Brand Standard Application in Tableau**
+
+Rebranded an IMDb movie dashboard, then created an explanatory analysis for Alicia Grant, Manager of Advertiser Partnerships: should IMDb launch a family-friendly advertising package based on audience engagement compared with R-rated movies?
+
+[Tableau workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17954096911950/DataMoviesIMDBDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+One thing I'd change: I would standardize dashboard dimensions before building the visualizations to ensure consistent formatting across Tableau Desktop and Tableau Public.
+
+AI use: ChatGPT assisted with Tableau troubleshooting, drafting dashboard documentation, and reviewing the explanatory analysis. November 22, 2026.
